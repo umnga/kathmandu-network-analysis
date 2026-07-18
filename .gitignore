@@ -1,2 +1,11 @@
-cache/
+# Python caches
+__pycache__/
+*.pyc
+
+# Data outputs and visualizations
+*.csv
+*.png
+*.html
+
 .venv/
+cache/

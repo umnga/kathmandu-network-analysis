@@ -1,0 +1,2 @@
+packaging==26.2
+folium==0.20.0
